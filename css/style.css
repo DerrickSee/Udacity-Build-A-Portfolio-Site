@@ -50,3 +50,7 @@ a.darken:hover img {
   margin-top: 20px;
   width: 100%;
 }
+
+@media (max-width: 320px) {
+  h1 {font-size: 28px;}
+}
